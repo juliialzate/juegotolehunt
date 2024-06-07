@@ -1,9 +1,9 @@
 # Tole Hunt: Un Clásico Renacido
 
-Hecho por:
-    - María Juliana Alzate Saavedra - 20232020082
-    - Erick Daniel Quiñones Galindo - 20232020074
-    - Andres Felipe Chaparro Mosquera - 20231020140
+* Hecho por:
+        - María Juliana Alzate Saavedra - 20232020082
+        - Erick Daniel Quiñones Galindo - 20232020074
+        - Andres Felipe Chaparro Mosquera - 20231020140
 
 ¡Bienvenido a Tole Hunt, una reinterpretación moderna del clásico juego de caza de aves! Sumérgete en un entorno divertido y desafiante, donde tu objetivo es disparar a los pájaros en vuelo antes de que se escapen. Con gráficos únicos, efectos de sonido envolventes y una jugabilidad adictiva, Tole Hunt promete horas de diversión. ¡Coge tu escopeta, apunta y dispara!
 
