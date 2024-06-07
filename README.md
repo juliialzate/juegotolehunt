@@ -1,4 +1,4 @@
-#Tole Hunt: Un Clásico Renacido
+# Tole Hunt: Un Clásico Renacido
 
 Hecho por:
     - María Juliana Alzate Saavedra - 20232020082
@@ -7,12 +7,12 @@ Hecho por:
 
 ¡Bienvenido a Tole Hunt, una reinterpretación moderna del clásico juego de caza de aves! Sumérgete en un entorno divertido y desafiante, donde tu objetivo es disparar a los pájaros en vuelo antes de que se escapen. Con gráficos únicos, efectos de sonido envolventes y una jugabilidad adictiva, Tole Hunt promete horas de diversión. ¡Coge tu escopeta, apunta y dispara!
 
-Instrucciones: ¿Cómo Jugar?
+# Instrucciones: ¿Cómo Jugar?
 
 
-Inicio del Juego:
+- Inicio del Juego:
 
-Al iniciar el juego, se mostrará la portada. Presiona cualquier tecla para continuar al menú principal.
+    Al iniciar el juego, se mostrará la portada. Presiona cualquier tecla para continuar al menú principal.
 
 - Menú Principal:
 
@@ -54,14 +54,20 @@ Al iniciar el juego, se mostrará la portada. Presiona cualquier tecla para cont
     Durante el juego, puedes pausar para tomar una decisión sobre continuar o ver los créditos.
     ¡Prepárate para un viaje divertido en compañia de Tole con Tole Hunt! ¡Buena suerte y buena caza!
 
-- A continuación puedes observar el diagrama de casos de uso de Tole Hunt:
+
+
+# A continuación puedes observar el diagrama de casos de uso de Tole Hunt:
 
 ![](out/diagrama_casos_uso/diagrama_casos_uso.png)
 
-- A continuación puedes observar el diagrama de clases de Tole Hunt:
+
+
+# A continuación puedes observar el diagrama de clases de Tole Hunt:
 
 ![](out/diagrama_de_clases/diagrama_de_clases.png)
 
-- A continuación puedes observar el diagrama de secuencia de Tole Hunt:
+
+
+# A continuación puedes observar el diagrama de secuencia de Tole Hunt:
 
 ![](out/diagrama_de_secuencia/diagrama_de_secuencia.png)
